@@ -1,5 +1,6 @@
 # Notice-Board
-
+# sudo modprobe bcm2835-v4l2
+# ls /dev/video*
 ## 3/12 회의주제
 1. contour area min값 정하기
 2. 카메라 고정판 만들기
